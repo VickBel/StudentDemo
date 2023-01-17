@@ -24,3 +24,4 @@ Markdown examples of meeting-notes be found in the meetings folder.
 ## Rmarkdown example
 
   Can be found in the `docs` folder.
+A line I wrote on my local computer  
